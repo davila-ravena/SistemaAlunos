@@ -29,7 +29,7 @@ O sistema foi desenvolvido para fins de aprendizado em **Java** e aplicação de
 ## Como executar
 1. Clone o repositório:
 
-   git clone https://github.com/seu-usuario/SistemaAlunos.git
+   git clone https://github.com/davila-ravena/SistemaAlunos.git
 
 2. Compile o projeto:
 
