@@ -39,15 +39,27 @@ java -cp bin main.Main
 ---
 
 Exemplo de uso
+
 --- Sistema de Gerenciamento de Alunos ---
+
 1 - Cadastrar aluno
+
 2 - Listar alunos
+
 3 - Buscar aluno
+
 4 - Remover aluno
+
 0 - Sair
+
 Escolha uma opção: 1
+
 Nome: Maria
+
 Matrícula: 12345
+
 Curso: Análise e Desenvolvimento de Sistemas
+
 Bolsa (true/false): true
+
 Aluno cadastrado com sucesso!
